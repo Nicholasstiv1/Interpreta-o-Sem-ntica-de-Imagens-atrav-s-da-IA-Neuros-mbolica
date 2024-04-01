@@ -58,5 +58,5 @@ def process_image(image_path, show=False):
 
 
 if __name__ == '__main__':
-    process_image('OutBelow.jpg', show=True)
+    process_image('images/OutBelow.jpg', show=True)
 
