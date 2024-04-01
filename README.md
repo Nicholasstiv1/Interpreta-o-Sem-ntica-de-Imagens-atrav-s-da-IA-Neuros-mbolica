@@ -1,0 +1,1 @@
+# Interpreta-o-Sem-ntica-de-Imagens-atrav-s-da-IA-Neuros-mbolica
