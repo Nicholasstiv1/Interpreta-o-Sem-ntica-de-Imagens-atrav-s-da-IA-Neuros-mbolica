@@ -66,7 +66,7 @@ result = OutSideRightBelow()(bb_w, bb_z)
 print("Is W outside right below Z?", result.item())
 ```
 
-## Main
+### Main
 
 No main, é possível usar as definições implementadas anteriormente para definir a relação entre duas bounding boxes. Ele utiliza um script detect.py com base no yolo para detectar as bounding boxes em uma imagem. Para executar o script, basta definir os caminhos da imagem em uma tupla, junto com as anotações para fazer um teste de validação.
 
@@ -81,6 +81,11 @@ if __name__ == '__main__':
 ```
 
 No caso acima, está feito uma validação do modelo, que gera uma matriz de confusão e um relatório de classificação, ambos citados no relatório. Também é possível rodar apenas a função process_image em uma imagem específica para verificar se as relações definidas se encaixam. 
+
+Exemplo das bounding boxes:
+
+![image](https://github.com/Nicholasstiv1/Interpretacao-Semantica-de-Imagens-atraves-da-IA-Neurosimbolica/assets/141846504/89039f07-48ad-4cfd-b7fc-9b6fb70f68ce)
+
 
 ### Pré-requisitos
 
