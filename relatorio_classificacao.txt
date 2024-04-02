@@ -1,0 +1,11 @@
+                   precision    recall  f1-score   support
+
+         Contains       1.00      0.50      0.67         2
+         OutBelow       1.00      1.00      1.00         1
+      OutSideLeft       0.33      1.00      0.50         1
+ OutSideLeftBelow       0.00      0.00      0.00         2
+OutSideRightBelow       0.50      0.50      0.50         2
+
+         accuracy                           0.50         8
+        macro avg       0.57      0.60      0.53         8
+     weighted avg       0.54      0.50      0.48         8
