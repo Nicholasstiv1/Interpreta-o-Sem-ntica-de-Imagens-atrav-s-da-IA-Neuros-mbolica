@@ -1,1 +1,1 @@
-# Interpreta-o-Sem-ntica-de-Imagens-atrav-s-da-IA-Neuros-mbolica
+# Interpretação Semântica de Imagens através da IA Neurosimbólica
